@@ -237,4 +237,4 @@ This repository serves as the official landing page for Nero BackItUp. The softw
 **Get the most recent version of Nero BackItUp today!**
 
 ---
-**Last updated:** 2026-09-22 20:56:34 UTC
+**Last updated:** 2026-09-22 23:31:12 UTC
